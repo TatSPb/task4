@@ -8,6 +8,7 @@ import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
+
         /**Задача: напишите код, с помощью которого можно перевернуть массив**/
 
         String[] array = {"1й", "2й", "3й", "4й", "5й"};
