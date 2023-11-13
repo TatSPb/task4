@@ -47,7 +47,6 @@ public class Main {
                 .toArray();
         System.out.println("Stream API: " + Arrays.toString(reversedArray));
     }
-
 };
 
 
